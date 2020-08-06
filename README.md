@@ -5,6 +5,7 @@ This repo contains,
 2. Small Web API using Flask 
 
 
-![Alt text](Flower classification_Transfer Learning.gif) / ![](Flower classification_Transfer Learning.gif)
+![Flower classification_Transfer Learning](https://user-images.githubusercontent.com/38960563/89578546-964fd480-d832-11ea-9d75-bacb1c56bcaf.gif)
+
 
 
